@@ -1,0 +1,28 @@
+body {
+    background: white url("images/Grand.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: tahoma, helvetica;
+}
+h1 {
+    font-size:18px;
+    font-weight:bold;
+    color:slategrey;
+}
+.mylist {
+    margin:30px 0 0 30px;
+    background-color:#fff;
+    padding:10px;
+    width:200px;
+    opacity:0.65;
+}
+
+.mydetail {
+    width:300px;
+}
+
+li a {
+    color: green;
+}
